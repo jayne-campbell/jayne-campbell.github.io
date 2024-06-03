@@ -4,12 +4,22 @@ title: "Underwater Photography"
 
 ## Utila, Honduras
 
+![French Angel Fish](photosweb/IMG_6904.JPG){fig-align="left" width="400"}
+
+![Christmas tree worms on coral](photosweb/IMG_6899.JPG){fig-align="left" width="400"}
+
 ## Great Barrier Reef, Australia
+
+![Sea turtle](photosweb/MICR1268.jpg){fig-align="left" width="400"}
+
+![corals off of Heron Island](photosweb/MICR1358 2.JPG){fig-align="left" width="400"}
 
 ## Ningaloo Reef, Western Australia
 
+![Manta Ray](photosweb/MICR1455.JPG){fig-align="left" width="400"}
+
 ## Fiji
 
-![Bull shark and fish](photosweb/shark1.JPG){fig-align="left" width="300"}
+![Bull shark and fish](photosweb/shark1.JPG){fig-align="left" width="400"}
 
-![Bull sharks](photosweb/shark2.JPG){fig-align="left" width="300"}
+![Bull sharks](photosweb/shark2.JPG){fig-align="left" width="400"}

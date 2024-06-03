@@ -2,6 +2,6 @@
 title: "Digital Camera Photos"
 ---
 
-Friends
+![New Zealand](photosweb/IMG_1577.jpeg){fig-align="left" width="400"}
 
-Views
+![Portugal](photosweb/IMG_2373.JPG){fig-align="left" width="400"}
