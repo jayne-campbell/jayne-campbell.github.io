@@ -14,11 +14,25 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "photography.html",
-    "href": "photography.html",
+    "objectID": "photography.html#great-barrier-reef-australia",
+    "href": "photography.html#great-barrier-reef-australia",
     "title": "Underwater Photography",
-    "section": "",
-    "text": "Utila, Honduras\n\nimage: photosweb/shark1.JPG toc: false about: template: trestles image-shape: rounded image-width: 20em\n\nGreat Barrier Reef, Australia\nNingaloo Reef, Western Australia\nFiji\n\n\n\nBull Shark"
+    "section": "Great Barrier Reef, Australia",
+    "text": "Great Barrier Reef, Australia"
+  },
+  {
+    "objectID": "photography.html#ningaloo-reef-western-australia",
+    "href": "photography.html#ningaloo-reef-western-australia",
+    "title": "Underwater Photography",
+    "section": "Ningaloo Reef, Western Australia",
+    "text": "Ningaloo Reef, Western Australia"
+  },
+  {
+    "objectID": "photography.html#fiji",
+    "href": "photography.html#fiji",
+    "title": "Underwater Photography",
+    "section": "Fiji",
+    "text": "Fiji\n\n\n\nBull shark and fish\n\n\n\n\n\nBull sharks"
   },
   {
     "objectID": "internships.html",
