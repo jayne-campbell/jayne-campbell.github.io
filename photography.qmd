@@ -4,8 +4,20 @@ title: "Underwater Photography"
 
 Utila, Honduras
 
+---
+
+image: photosweb/shark1.JPG
+toc: false
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 20em
+---
+
 Great Barrier Reef, Australia
 
 Ningaloo Reef, Western Australia
 
 Fiji
+
+![Bull Shark](photosweb/shark2.JPG){width="300"}
