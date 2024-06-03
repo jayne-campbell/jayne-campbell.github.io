@@ -10,11 +10,15 @@ website:
       - href: index.qmd
         text: Home
       - internships.qmd
+      - researchpapers.qmd
       - photography.qmd
+      - digitals.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: minty
+      dark: superhero
     css: styles.css
     toc: true
     page-layout: full
