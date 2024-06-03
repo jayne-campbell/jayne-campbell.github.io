@@ -2,6 +2,12 @@
 title: "Digital Camera Photos"
 ---
 
+![Western Australia](photosweb/IMG_8979.jpeg){fig-align="left" width="400"}
+
+![Queensland](photosweb/Roll1_129634JC000645-R1-003.jpg){fig-align="left" width="400"}
+
 ![New Zealand](photosweb/IMG_1577.jpeg){fig-align="left" width="400"}
 
 ![Portugal](photosweb/IMG_2373.JPG){fig-align="left" width="400"}
+
+![Palm Springs](photosweb/100_0124.JPG){fig-align="left" width="400"}
