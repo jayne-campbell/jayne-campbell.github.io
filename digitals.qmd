@@ -12,9 +12,7 @@ title: "Digital Camera Photos"
 
 ![Fiji](photosweb/IMG_2349.jpeg){fig-align="left" width="400"}
 
-![Fiji](photosweb/IMG_2349.jpeg){width="400"}
-
-![Pasaro, Italy](photosweb/IMG_2295.JPG){fig-align="left" width="400"}
+![Pesaro, Italy](photosweb/IMG_2295.JPG){fig-align="left" width="400"}
 
 ![Portugal](photosweb/IMG_2373.JPG){fig-align="left" width="400"}
 

@@ -9,19 +9,23 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - internships.qmd
-      - researchpapers.qmd
+      - href: internships.qmd
+        text: Internships
+      - href: researchpapers.qmd
+        text: Research Papers
       - photography.qmd
-      - digitals.qmd
-
+      - href: digitals.qmd
+        text: Digitals
+  page-footer:
+    background: light
+    left: Copyright 2024, Jayne Campbell
+    right: This website is built with {{< fa heart title="a heart" >}}
+    
 format:
   html:
-    theme: 
-      light: minty
-      dark: superhero
-    css: styles.css
+    theme: styles.scss
+    mainfont: Playfair Display
     toc: true
     page-layout: full
 
 editor: visual
-
