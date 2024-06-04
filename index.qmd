@@ -7,12 +7,16 @@ about:
   image-shape: rounded
   image-width: 20em
   links:
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/jayne-campbell
-    - text: UCSB Email
+    - icon: envelope
+      text: UCSB Email
       href: mailto:jaynecampbell@ucsb.edu
-    - text: Personal Email
+    - icon: envelope
+      text: Personal Email
       href: mailto:jcviolet88@gmail.com
+
 ---
 
 # About Me
