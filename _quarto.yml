@@ -24,6 +24,7 @@ website:
 format:
   html:
     theme: styles.scss
+    mainfont: Playfair Display
     toc: true
     page-layout: full
 

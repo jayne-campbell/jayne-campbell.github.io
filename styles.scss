@@ -1,15 +1,21 @@
 /*-- scss:defaults --*/
 
+// import font-size
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
   // Colors
   $mint: #C9FFE5;
   $rose: #EDAEC0;
   $lightorange: #FFDBBB;
-  $cream: #FDFBF7;
+  $cream: #F9F9F7;
   $blue: #9CCAE5;
   $black: #231F20;
   $lightpurple: #A695B0;
   
-  
   // Base document colors 
   $navbar-bg: $lightpurple; // navbar
   $navbar-fg: $black; // navbar foreground elements
+  $body-bg: $cream; // page background:
+  $body-color: $black; // page text
+  $footer-bg: $blue; // footer
+  
