@@ -2,7 +2,7 @@
 title: "Digital Camera Photos"
 ---
 
-## People & Places 
+## People & Places
 
 ![Western Australia](photosweb/IMG_8979.jpeg){fig-align="left" width="400"}
 
