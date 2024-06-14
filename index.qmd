@@ -16,7 +16,6 @@ about:
     - icon: envelope
       text: Personal Email
       href: mailto:jcviolet88@gmail.com
-
 ---
 
 # About Me

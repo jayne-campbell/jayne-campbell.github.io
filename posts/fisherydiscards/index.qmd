@@ -3,7 +3,7 @@ title: "Herbivorous No More: Tidal Migration in the Midst of Fishery Discards Sh
 description: "Research paper from abroad program at the University of Queensland"
 author:
   - name: Jayne Campbell
-    url: https://jaynecampbell.github.io/
+    url: https://jayne-campbell.github.io
     affiliation: University of California, Santa Barbara
 date: 06-13-2024
 categories: [Quarto, UQ] # self-defined categories
