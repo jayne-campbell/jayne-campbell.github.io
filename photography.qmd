@@ -12,7 +12,7 @@ title: "Underwater Photography"
 
 ![Sea turtle](photosweb/MICR1268.jpg){fig-align="left" width="400"}
 
-![corals off of Heron Island](photosweb/MICR1358 2.JPG){fig-align="left" width="400"}
+![corals off of Heron Island](photosweb/MICR1358%202.JPG){fig-align="left" width="400"}
 
 ## Ningaloo Reef, Western Australia
 
