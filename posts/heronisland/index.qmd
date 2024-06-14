@@ -1,0 +1,14 @@
+---
+title: "The Need for Balance: The impact of nitrogenous waste from deposit feeders on the primary productivity of micro-algae on Heron Island"
+description: "Research paper from abroad program at the University of Queensland"
+author:
+  - name: Jayne Campbell
+    url: https://jaynecampbell.github.io/
+    affiliation: University of California, Santa Barbara
+date: 06-13-2024
+categories: [Quarto] # self-defined categories
+citation: 
+  url: https://jaynecampbell.github.io/posts/heronisland/ 
+image: heronpic.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
