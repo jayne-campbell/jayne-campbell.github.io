@@ -14,11 +14,53 @@
     "text": "Western Australia\n\n\n\n\n\nQueensland\n\n\n\n\n\nTongariro Alpine Crossing\n\n\n\n\n\nFiji\n\n\n\n\n\nPesaro, Italy\n\n\n\n\n\nPortugal\n\n\n\n\n\nMexico\n\n\n\n\n\nPalm Springs"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Research Papers",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Herbivorous No More: Tidal Migration in the Midst of Fishery Discards Shock the Trophic Web in Subtropical Intertidal Communities\n\n\n\nQuarto\n\n\nUQ\n\n\n\nResearch paper from abroad program at the University of Queensland\n\n\n\nJayne Campbell\n\n\nJun 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Need for Balance: The impact of nitrogenous waste from deposit feeders on the primary productivity of micro-algae on Heron Island\n\n\n\nQuarto\n\n\nUQ\n\n\n\nResearch paper from abroad program at the University of Queensland\n\n\n\nJayne Campbell\n\n\nJun 13, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jayne Campbell",
+    "section": "",
+    "text": "About Me\nHi! My name is Jayne Campbell and I am currently a fourth year majoring in environmental studies at UCSB. I am very interested and passionate about marine conservation and the ocean and hope to focus on that in my future career.\nOn this website, you can find some examples of my research projects, past internships, and photography.\n\n\nEducation\nBachelors of Science in Environmental Studies (June 2024)\nUniversity of California, Santa Barbara"
+  },
+  {
+    "objectID": "posts/heronisland/index.html",
+    "href": "posts/heronisland/index.html",
+    "title": "The Need for Balance: The impact of nitrogenous waste from deposit feeders on the primary productivity of micro-algae on Heron Island",
+    "section": "",
+    "text": "This was the second research paper that I wrote during my time abroad at the University of Queensland. This project was conducted at the Heron Island Research Station in the Great Barrier Reef and was based on the fact that microalgae are beneficial to coral reef ecosystems as long as their abundance is balanced out by the ecosystem. We used flow-through tanks to model how nitrogenous waste from sea cucumbers has an impact on the growth of microalgae. Their photosynthetic rate was measured in terms of oxygen production and cell density. My research found that the addition of nitrogenous waste did affect the primary production levels of microalgae."
+  },
+  {
+    "objectID": "posts/heronisland/index.html#summary-context",
+    "href": "posts/heronisland/index.html#summary-context",
+    "title": "The Need for Balance: The impact of nitrogenous waste from deposit feeders on the primary productivity of micro-algae on Heron Island",
+    "section": "",
+    "text": "This was the second research paper that I wrote during my time abroad at the University of Queensland. This project was conducted at the Heron Island Research Station in the Great Barrier Reef and was based on the fact that microalgae are beneficial to coral reef ecosystems as long as their abundance is balanced out by the ecosystem. We used flow-through tanks to model how nitrogenous waste from sea cucumbers has an impact on the growth of microalgae. Their photosynthetic rate was measured in terms of oxygen production and cell density. My research found that the addition of nitrogenous waste did affect the primary production levels of microalgae."
+  },
+  {
+    "objectID": "internships.html",
+    "href": "internships.html",
+    "title": "Internships",
+    "section": "",
+    "text": "INTERNSHIP EXPERIENCE\nResearch Assistant for Froehlich lab   Mar 2024 – Jun 2024\nProject: Climate training giant kelp\n\nAssisted in testing an early intervention, low-cost heatwave conditioning treatment for giant kelp in an aquaculture setting\nParticipated in experimental set up, break-down, data collection, and data analysis\nAnalyzed images using ImageJ and Trigit \nVisualized data using R and Rstudio to create graphs and figures \n\nMarine Conservation Intern   Aug 2022 – Sep 2022\nWhale Shark and Oceanic Research Center, Utila, Honduras\n\nCompleted Caribbean marine organism identification workshops with examination of Caribbean reef fish, reef-associated organisms, and corals\nCollected data on international citizen science databases for the Reef Environmental Education Foundation\nMonitored and cleaned coral nurseries and conducted invasive Lionfish species removal, dissection, and data collection\nConducted reef survey dives using the Atlantic and Gulf Rapid Reef Assessment methodology to evaluate reef health, treating dive sites against the Stony Coral Tissue Loss Disease\nSuccessfully proposed, developed, and presented a personal project to the organization within four weeks that centered on providing future interns with tools to assist with classifying fish species during reef surveys \n\nEarly Childhood Environmental Education Intern Apr 2022 – Jun 2022\nKids in Nature Program, UCSB\n\nPromoted the aspirations and achievements of students in underserved schools in Goleta \nProvided quality environmental science education and experiences through field trips and nature walks\nEducated students about the local flora and fauna that was observed\n\nRestoration Ecology Intern     Feb 2022 – Apr 2022\nCheadle Center for Biodiversity and Ecological Restoration, UCSB\n\nLearned the process of restoration site design, implementation, and maintenance techniques\nCultivated and identified native plants at the restoration sites \nConducted seed collection and ecological monitoring protocols\nEradicated invasive plants to protect sensitive native plants, with special attention to vernal pool habitats"
+  },
+  {
+    "objectID": "posts/fisherydiscards/index.html",
+    "href": "posts/fisherydiscards/index.html",
+    "title": "Herbivorous No More: Tidal Migration in the Midst of Fishery Discards Shock the Trophic Web in Subtropical Intertidal Communities",
+    "section": "",
+    "text": "I wrote this research paper about a project I did while at a research station on Stradbroke Island in Queensland, Australia. The focus of our project was the utilization of BRUVS, which are baited remote underwater survey systems. We used them to record fish species interacting with bait. The video footage underwent a frame-by-frame analysis, and data was collected in terms of which species were present, the tide during which they were observed, the maximum number of that species in a frame, their typical feeding habits, and whether they fed on the discards. Analysis of the data revealed a distinct separation between low and high tide conditions concerning the abundance of various species."
+  },
+  {
+    "objectID": "posts/fisherydiscards/index.html#summary-context",
+    "href": "posts/fisherydiscards/index.html#summary-context",
+    "title": "Herbivorous No More: Tidal Migration in the Midst of Fishery Discards Shock the Trophic Web in Subtropical Intertidal Communities",
+    "section": "",
+    "text": "I wrote this research paper about a project I did while at a research station on Stradbroke Island in Queensland, Australia. The focus of our project was the utilization of BRUVS, which are baited remote underwater survey systems. We used them to record fish species interacting with bait. The video footage underwent a frame-by-frame analysis, and data was collected in terms of which species were present, the tide during which they were observed, the maximum number of that species in a frame, their typical feeding habits, and whether they fed on the discards. Analysis of the data revealed a distinct separation between low and high tide conditions concerning the abundance of various species."
   },
   {
     "objectID": "photography.html",
@@ -56,18 +98,11 @@
     "text": "Fiji\n\n\n\nBull shark and fish\n\n\n\n\n\nBull sharks"
   },
   {
-    "objectID": "internships.html",
-    "href": "internships.html",
-    "title": "Internships",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "INTERNSHIP EXPERIENCE\nResearch Assistant for Froehlich lab   Mar 2024 – Jun 2024\nProject: Climate training giant kelp\n\nAssisted in testing an early intervention, low-cost heatwave conditioning treatment for giant kelp in an aquaculture setting\nParticipated in experimental set up, break-down, data collection, and data analysis\nAnalyzed images using ImageJ and Trigit \nVisualized data using R and Rstudio to create graphs and figures \n\nMarine Conservation Intern   Aug 2022 – Sep 2022\nWhale Shark and Oceanic Research Center, Utila, Honduras\n\nCompleted Caribbean marine organism identification workshops with examination of Caribbean reef fish, reef-associated organisms, and corals\nCollected data on international citizen science databases for the Reef Environmental Education Foundation\nMonitored and cleaned coral nurseries and conducted invasive Lionfish species removal, dissection, and data collection\nConducted reef survey dives using the Atlantic and Gulf Rapid Reef Assessment methodology to evaluate reef health, treating dive sites against the Stony Coral Tissue Loss Disease\nSuccessfully proposed, developed, and presented a personal project to the organization within four weeks that centered on providing future interns with tools to assist with classifying fish species during reef surveys \n\nEarly Childhood Environmental Education Intern Apr 2022 – Jun 2022\nKids in Nature Program, UCSB\n\nPromoted the aspirations and achievements of students in underserved schools in Goleta \nProvided quality environmental science education and experiences through field trips and nature walks\nEducated students about the local flora and fauna that was observed\n\nRestoration Ecology Intern     Feb 2022 – Apr 2022\nCheadle Center for Biodiversity and Ecological Restoration, UCSB\n\nLearned the process of restoration site design, implementation, and maintenance techniques\nCultivated and identified native plants at the restoration sites \nConducted seed collection and ecological monitoring protocols\nEradicated invasive plants to protect sensitive native plants, with special attention to vernal pool habitats"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jayne Campbell",
-    "section": "",
-    "text": "About Me\nHi! My name is Jayne Campbell and I am currently a fourth year majoring in environmental studies at UCSB. I am very interested and passionate about marine conservation and the ocean and hope to focus on that in my future career.\nOn this website, you can find some examples of my research projects, past internships, and photography.\n\n\nEducation\nBachelors of Science in Environmental Studies (June 2024)\nUniversity of California, Santa Barbara"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "researchpapers.html",

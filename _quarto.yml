@@ -11,11 +11,12 @@ website:
         text: Home
       - href: internships.qmd
         text: Internships
-      - href: researchpapers.qmd
+      - href: posts.qmd
         text: Research Papers
       - photography.qmd
       - href: digitals.qmd
         text: Digitals
+    
   page-footer:
     background: light
     left: Copyright 2024, Jayne Campbell
