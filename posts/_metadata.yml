@@ -1,0 +1,6 @@
+
+# prevents posts from re-rendering unless explicitly told to
+freeze: auto
+
+#enable banner style title blocks
+title-block-banner: true
