@@ -8,7 +8,7 @@ author:
 date: 06-13-2024
 categories: [Quarto, UQ] # self-defined categories
 citation: 
-  url: https://jaynecampbell.github.io/posts/fisherydiscards/ 
+  url: https://jayne-campbell.github.io/posts/fisherydiscards/ 
 image: bruvpic.png
 draft: false
 ---
