@@ -10,15 +10,15 @@ categories: [Quarto, UQ] # self-defined categories
 citation: 
   url: https://jaynecampbell.github.io/posts/fisherydiscards/ 
 image: bruvpic.png
-draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false
 ---
 
-Summary & Context
+## Summary & Context
 
-I wrote this research paper about a project I did while at a research station on Stradbroke Island in Queensland, Australia. The focus of our project was the utilization of BRUVS, which are baited remote underwater survey systems. We used them to record fish species interacting with bait. The video footage underwent a frame-by-frame analysis, and data was collected in terms of which species were present, the tide during which they were observed, the maximum number of that species in a frame, their typical feeding habits, and whether they fed on the discards.  Analysis of the data revealed a distinct separation between low and high tide conditions concerning the abundance of various species. 
+I wrote this research paper about a project I did while at a research station on Stradbroke Island in Queensland, Australia. The focus of our project was the utilization of BRUVS, which are baited remote underwater survey systems. We used them to record fish species interacting with bait. The video footage underwent a frame-by-frame analysis, and data was collected in terms of which species were present, the tide during which they were observed, the maximum number of that species in a frame, their typical feeding habits, and whether they fed on the discards. Analysis of the data revealed a distinct separation between low and high tide conditions concerning the abundance of various species.
 
 <iframe src="stradbroke_researchpaper.pdf" width="100%" height="600px"></iframe>
 
----
+------------------------------------------------------------------------
 
 ## 
